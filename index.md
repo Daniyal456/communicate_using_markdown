@@ -8,3 +8,6 @@ import json
 file=json.load("file.html")
 
 ```
+- [ ] Turn on Github pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
